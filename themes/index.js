@@ -444,6 +444,13 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  test: {
+    title_color: "e07a5f",
+    text_color: "edae49",
+    icon_color: "ebcfb2",
+    border_color: "e1bc29",
+    bg_color: "2b2d40",
+  },
 };
 
 export default themes;
